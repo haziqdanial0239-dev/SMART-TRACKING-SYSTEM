@@ -30,6 +30,8 @@ AI Techniques:
 
 -Clustering Algorithms – to group similar task behaviors and identify high-risk projects or underperforming teams.
 
+-Data Visualization Tools (e.g., Power BI / Dash / Streamlit) – to provide interactive dashboards for progress analysis.
+
 
 System Architecture:
 
