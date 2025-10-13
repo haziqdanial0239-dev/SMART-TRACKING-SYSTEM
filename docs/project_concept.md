@@ -2,7 +2,7 @@ Project Concept Statement
 
 Title:
 
-Task Tracking System with Intelligent Progress Analysis
+Smart Tracking System
 
 Problem Statement
 
@@ -30,7 +30,6 @@ AI Techniques:
 
 -Clustering Algorithms – to group similar task behaviors and identify high-risk projects or underperforming teams.
 
--Data Visualization Tools (e.g., Power BI / Dash / Streamlit) – to provide interactive dashboards for progress analysis.
 
 System Architecture:
 
@@ -60,6 +59,6 @@ Evaluation Metrics
 
 -Managerial Efficiency Improvement: Evaluate the reduction in manual reporting time or decision-making delays.
 
--System Usability Score (SUS): Assess user satisfaction and ease of use through surveys.
+-System Usability Score : Assess user satisfaction and ease of use through surveys.
 
 -Performance Visualization Quality: Measure the clarity and usefulness of dashboards in aiding project decisions.
