@@ -1,4 +1,4 @@
-What did I contribute this week? I contributed work of defining Work Based Schedule (WBS)
-What did I learn about collaboration or planning? WBS helps for work to be completed in a more punctual manner
-What challenges did I face? Determining appropriate deadlines
-What will I focus on next week? Contributing more ideas to the project and teammates
+• Which phase of your project had the most subtasks? All phase have the same amount of subtask
+• How did breaking tasks down help you plan better? Sets separate deadline for each tasks making it easier to decide which to focus on
+• What would you adjust in your project schedule next week? Sets more appropriate deadline
+
