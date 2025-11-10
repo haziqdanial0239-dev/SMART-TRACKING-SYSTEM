@@ -12,3 +12,17 @@
 | 7.1 | Testing & Validation | Human | QA Tester | 4 hrs | Check reliability and usability |
 | 8.1 | Report & Presentation | Human | Team Members | 8 hrs | Write report and prepare slides |
 
+## Cost
+
+| Task | Hours | Rate (RM/hr) | Total Cost (RM) |
+|--------|-------|-------------|--------|--------|
+| Requirements Gathering | 6 | 25 | 150 |
+| Collect & Clean Dataset | — | 100 | 100 |
+| Model Design | 5 | 30 | 150 |
+| Model Training | 10 | 10 | 100 |
+| Model Evaluation | — | 100 | 100 |
+| Dashboard Development | — | 100 | 100 |
+| Testing & Validation | 4 | 25 | 100 |
+| Report & Presentation | 8 | 25 | 200 |
+| Total | — | — | 1000 |
+
