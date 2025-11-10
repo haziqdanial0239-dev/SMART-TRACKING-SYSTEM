@@ -15,7 +15,7 @@
 ## Cost
 
 | Task | Hours | Rate (RM/hr) | Total Cost (RM) |
-|--------|-------|-------------|--------|--------|
+|--------|-------|-------------|--------|
 | Requirements Gathering | 6 | 25 | 150 |
 | Collect & Clean Dataset | — | 100 | 100 |
 | Model Design | 5 | 30 | 150 |
