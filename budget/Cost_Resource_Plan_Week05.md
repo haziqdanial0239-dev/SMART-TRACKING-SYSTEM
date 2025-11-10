@@ -26,3 +26,12 @@
 | Report & Presentation | 8 | 25 | 200 |
 | Total | — | — | 1000 |
 
+## Simple Project Budget
+
+| Cost Category | Example Items | Subtotal (RM) |
+|--------|-------|-------------|
+| Human Resources | Team members, assistants | 1,200 |
+| Hardware / Cloud | GPU, storage | 400 |
+| Software / Licenses | Tools or subscriptions | 300 |
+| Communication | Online meetings | 100 |
+| Total Estimated Budget | — | 2,000 |
